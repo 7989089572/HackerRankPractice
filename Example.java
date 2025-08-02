@@ -1,4 +1,4 @@
-#Added HackerRank practice problems: if-else, input-output, sum, and multiplication table
+
 
 import java.util.Scanner;
 
